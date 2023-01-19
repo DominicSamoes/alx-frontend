@@ -11,7 +11,12 @@
 * The differences between responsive and adaptive design
 * CSS units that are used to make elements flexible
 
-### [](./)
+### [0. Fix the hero banner](./01-styles.css)
+
+### [1. Make the container flexible](./02-styles.css)
+
+### [2. Fix layout issues](./02-1-styles.css)
+
 
 
 ---
